@@ -25,7 +25,7 @@ Here are a few projects I've worked on:
 ### [Shrami](https://github.com/ayruvedaAvi/Project-II)
 A freelance mobile app made with flutter and node.js targeted for Nepali people.
 
-### [Project 2](https://github.com/ayruvedaAvi/Learning-Flutter)
+### [Journey Flutter](https://github.com/ayruvedaAvi/Learning-Flutter)
 My journey learning flutter, there are small apps inside this repo.
 
 
