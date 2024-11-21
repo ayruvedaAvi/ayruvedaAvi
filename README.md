@@ -22,6 +22,9 @@ Welcome to my GitHub profile! I'm a passionate Software Engineering student at N
 
 Here are a few projects I've worked on:
 
+### [Afini](https://github.com/ayruvedaAvi/afini)
+Afini is an app designed for couples to simplify and enhance their relationship. It helps partners plan and schedule meet-ups, date nights, and special moments with minimal effort, strengthening their connection.
+
 ### [Shrami](https://github.com/ayruvedaAvi/Project-II)
 A freelance mobile app made with flutter and node.js targeted for Nepali people.
 
