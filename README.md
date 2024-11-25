@@ -1,22 +1,23 @@
 # Hi, I'm Abhishek Neupane 👋
 
-Welcome to my GitHub profile! I'm a passionate Software Engineering student at NCIT, Balkumari, Lalitpur. I have a strong interest in mobile and web development, and I love working with Flutter and PHP Laravel.
+Welcome to my GitHub profile! I'm a passionate Software Engineering student at NCIT, Balkumari, Lalitpur. I have a strong interest in mobile and web development, and I love working with Flutter and Node.js.
 
 ## About Me
 
 - 🔭 I have experience with Flutter for mobile application development.
-- 🌱 I am currently learning PHP Laravel for web development.
+- 🌱 I am currently learning Node.js for web development and creating APIs.
 - 🎓 Studying Software Engineering at NCIT, Balkumari, Lalitpur.
-- 💬 Ask me about Flutter, PHP, and web development.
+- 💬 Ask me about Flutter, Node.js, and web development.
 - 📫 How to reach me: neupaneabhishek13@gmail.com
 - ⚡ Fun fact: I enjoy solving coding challenges and exploring new technologies.
 
 ## Skills
 
-- **Languages:** Dart, PHP, JavaScript
-- **Frameworks:** Flutter, Laravel
+- **Languages:** Dart, JavaScript
+- **Frameworks:** Flutter
+- **Runtime Environment:** Node.js
 - **Tools:** Git, VS Code
-- **Databases:** MySQL
+- **Databases:** MySQL, MongoDb
 
 ## Projects
 
