@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineering student at N
 - 🔭 I have experience with Flutter for mobile application development.
 - 🌱 I am currently learning Node.js for web development and creating APIs.
 - 🎓 Studying Software Engineering at NCIT, Balkumari, Lalitpur.
-- 💬 Ask me about Flutter, Node.js, and web development.
+- 💬 Ask me about Flutter, Node.js, and mobile application development.
 - 📫 How to reach me: neupaneabhishek13@gmail.com
 - ⚡ Fun fact: I enjoy solving coding challenges and exploring new technologies.
 
