@@ -1,15 +1,14 @@
 # Hi, I'm Abhishek Neupane 👋
 
-Welcome to my GitHub profile! I'm a passionate Software Engineering student at NCIT, Balkumari, Lalitpur. I have a strong interest in mobile and web development, and I love working with Flutter and Node.js.
+Hello there! I guess I code and stuff. I am professionally a Flutter developer but like, I do some backend with Node.js too. Yeah, I guess that's all I need to say. Oh I forgot, I spend almost all the money I earn on Mountain bikes lol. Anyway, I love making mobile apps and hitting them trails.
 
 ## About Me
 
-- 🔭 I have experience with Flutter for mobile application development.
-- 🌱 I am currently learning Node.js for web development and creating APIs.
-- 🎓 Studying Software Engineering at NCIT, Balkumari, Lalitpur.
-- 💬 Ask me about Flutter, Node.js, and mobile application development.
-- 📫 How to reach me: neupaneabhishek13@gmail.com
-- ⚡ Fun fact: I enjoy solving coding challenges and exploring new technologies.
+- Professionally a mobile application developer
+- I know a little bit of node.js
+- Still a student at NCIT, Lalitpur
+- Apart from these, I love riding Mountain Bike
+- Contact me: neupaneabhishek13@gmail.com
 
 ## Skills
 
