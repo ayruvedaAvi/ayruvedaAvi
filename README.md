@@ -28,7 +28,7 @@ Afini is an app designed for couples to simplify and enhance their relationship.
 ### [Shrami](https://github.com/ayruvedaAvi/Project-II) (flutter + node.js)
 A freelance mobile app made with flutter and node.js targeted for Nepali people.
 
-### [Personal Website](https://github.com/ayruvedaAvi/personal_website)
+### [Personal Website](https://github.com/ayruvedaAvi/personal_website) (flutter)
 My personal website that I made with flutter.
 
 
