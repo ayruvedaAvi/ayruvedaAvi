@@ -22,10 +22,10 @@ Hello there! I guess I code and stuff. I am professionally a Flutter developer b
 
 Here are a few projects I've worked on:
 
-### [Afini](https://github.com/ayruvedaAvi/afini)
+### [Afini](https://github.com/ayruvedaAvi/afini) (flutter + node.js)
 Afini is an app designed for couples to simplify and enhance their relationship. It helps partners plan and schedule meet-ups, date nights, and special moments with minimal effort, strengthening their connection.
 
-### [Shrami](https://github.com/ayruvedaAvi/Project-II)
+### [Shrami](https://github.com/ayruvedaAvi/Project-II) (flutter + node.js)
 A freelance mobile app made with flutter and node.js targeted for Nepali people.
 
 ### [Personal Website](https://github.com/ayruvedaAvi/personal_website)
