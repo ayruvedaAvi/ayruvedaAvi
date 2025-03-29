@@ -1,11 +1,11 @@
 # Hi, I'm Abhishek Neupane 👋
 
-Hello there! I guess I code and stuff. I am professionally a Flutter developer but like, I do some backend with Node.js too. Yeah, I guess that's all I need to say. Oh I forgot, I spend almost all the money I earn on Mountain bikes lol. Anyway, I love making mobile apps and hitting them trails.
+Hello there! I guess I code and stuff. I am professionally a Mobile Application Developer but like, I do some backend with Node.js too. Yeah, I guess that's all I need to say. Oh I forgot, I spend almost all the money I earn on Mountain bikes lol. Anyway, I love making mobile apps and hitting them trails.
 
 ## About Me
 
 - Professionally a mobile application developer
-- I know a little bit of node.js
+- I use node.js as my backend most of the time
 - Still a student at NCIT, Lalitpur
 - Apart from these, I love riding Mountain Bike
 - Contact me: neupaneabhishek13@gmail.com
@@ -16,7 +16,7 @@ Hello there! I guess I code and stuff. I am professionally a Flutter developer b
 - **Frameworks:** Flutter
 - **Runtime Environment:** Node.js
 - **Tools:** Git, VS Code
-- **Databases:** MySQL, MongoDb
+- **Databases:** MySQL, MongoDb, PostgreSQL
 
 ## Projects
 
